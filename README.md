@@ -23,3 +23,6 @@ Take the scripts.js file and change it to do these things:
 7. Make an array with the cabinet in there
 8. Use `includes()` to say something if the name is in the array
 9. Use a `for` loop to print out all the names in the array
+
+Play about with arrays, for loops and functions to do some more stuff.
+
