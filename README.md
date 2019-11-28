@@ -1,7 +1,5 @@
 # Week 1
 
-https://www.atlassian.com/git/tutorials/install-git#windows
-
 We covered:
 * Variables let blah = "blah"
 * Conditionals if...else if...then
@@ -26,5 +24,13 @@ Take the scripts.js file and change it to do these things:
 8. Use `includes()` to say something if the name is in the array
 9. Use a `for` loop to print out all the names in the array
 
-Play about with arrays, for loops and functions to do some more stuff.
+Once you are happy with it, commit and push:
+* In Windows Explorer, go to Documents > code
+* Right click the leeanne folder and choose 'Git GUI here'
+* You should see your changed files in the 'Unstaged Changes' box
+* Type a commit message (it can be anything), hit 'Stage Changed' button, then 'Commit' button, then 'Push'.
+* When you hit push, it pops up a thing with Source Branches and some stuff. Just hit Push.
+* If it does not work then no bother I'll have a look later.
+
+Then play about with arrays, `for` loops and functions to print out some random stuff. Get familiar with them because they are going to be useful next time.
 
