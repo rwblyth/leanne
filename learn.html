@@ -1,0 +1,22 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Hello</title>
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+  <script src="js/scripts.js"></script>
+  <label>What is your name</label>
+  <input id="yourname" name="yourname" type="text"
+         onkeydown = "if (event.keyCode == 13) document.getElementById('greet').click()" />
+  <button id="greet" onclick="greet()">Go</button>
+  <br/>
+  <p id="greeting">Hello</p>
+</body>
+</html>
+
