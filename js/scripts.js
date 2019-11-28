@@ -13,6 +13,6 @@ function getAGreeting(name) {
 	if (name === "boris") {
 		return "Boris";
 	} else {
-		return "Not boris";
+		return "Not Boris";
 	}
 }
