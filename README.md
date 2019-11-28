@@ -1,5 +1,7 @@
 # Week 1
 
+https://www.atlassian.com/git/tutorials/install-git#windows
+
 We covered:
 * Variables let blah = "blah"
 * Conditionals if...else if...then
